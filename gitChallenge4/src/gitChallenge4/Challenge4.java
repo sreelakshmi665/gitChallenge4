@@ -2,8 +2,8 @@ package gitChallenge4;
 
 public class Challenge4 {
 public static void main(String[] args) {
-	int a=10;
-	int b=20;
-	System.out.println(a+b);
+	int data1=10;
+	int data2=20;
+	System.out.println(data1+data2);
 }
 }
